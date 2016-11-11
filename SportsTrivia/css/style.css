@@ -1,0 +1,12 @@
+body{
+  background-image:url(http://iphoneapplab.net/wp-content/uploads/2010/04/tn-sportstrivia.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+.EasyandHard{ 
+      display: none;
+}
+
+.answers{
+  width: 200px;
+}
